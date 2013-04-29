@@ -1,6 +1,6 @@
 {
 	"name" : "frameworks/ember.js",
-	"requires" : [
+	"requires" : {
 		"frameworks/handlebars.js" : "*"
-	]
+	}
 }
